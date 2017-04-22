@@ -1,2 +1,3 @@
 # Responsive-Portfolio
 Homework Assignment 2 Media Screen Responsive 
+I am sorry this is so lame. I thought we had two weeks to do this assignment and I had planned on building my own webpage from scratch. When I realized on Thursday that the assignment was due at midnight the following day I just coded what I could. It took me forever to do what little I could with the index page- I know it's not perfect.
